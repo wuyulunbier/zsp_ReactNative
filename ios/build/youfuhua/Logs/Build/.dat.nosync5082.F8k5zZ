@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>6FBE93E7-46F5-42C6-951B-F248F2C7A8B9</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6FBE93E7-46F5-42C6-951B-F248F2C7A8B9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>youfuhua project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>youfuhua</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project youfuhua with scheme youfuhua and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>582901350.21229196</real>
+			<key>timeStoppedRecording</key>
+			<real>582901352.71826506</real>
+			<key>title</key>
+			<string>Building project youfuhua with scheme youfuhua and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>6FBE93E7-46F5-42C6-951B-F248F2C7A8B9</string>
+		</dict>
+		<key>7F31B1C5-A99E-48D0-BEAC-D8759894861D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7F31B1C5-A99E-48D0-BEAC-D8759894861D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>youfuhua project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>youfuhua</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project youfuhua with scheme youfuhua and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>582891823.07476401</real>
+			<key>timeStoppedRecording</key>
+			<real>582891840.40949404</real>
+			<key>title</key>
+			<string>Building project youfuhua with scheme youfuhua and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>7F31B1C5-A99E-48D0-BEAC-D8759894861D</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

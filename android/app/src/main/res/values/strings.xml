@@ -1,0 +1,4 @@
+<resources>
+	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">0nDH2JY-BEJCk3C2AvsQ1k75ImLi95cf7cca-9799-46f4-9461-f77866942103</string>
+    <string name="app_name">都市花</string>
+</resources>
